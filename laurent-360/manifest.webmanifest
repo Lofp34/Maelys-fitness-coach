@@ -1,0 +1,14 @@
+{
+  "name": "Laurent 360 · Coach de transformation",
+  "short_name": "Laurent 360",
+  "description": "Suivi personnel sur 36 semaines avec check-ins, objectifs SMART et agent IA.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#206bc4",
+  "icons": [
+    { "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
